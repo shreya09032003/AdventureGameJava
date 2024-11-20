@@ -40,9 +40,4 @@ Welcome to the **Adventure Game**, a text-based adventure where you explore myst
 
 ---
 
-## 🛠️ Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/adventure-game.git
-   cd adventure-game
